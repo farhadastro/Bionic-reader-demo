@@ -1,0 +1,5 @@
+{
+  "name": "Bionic PDF Reader",
+  "description": "An application to convert PDF files into a bionic reading format to help you read faster and with more focus. Simply upload your PDF and start reading.",
+  "requestFramePermissions": []
+}
